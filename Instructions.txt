@@ -1,0 +1,17 @@
+=========================================================
+=====================Exercise============================
+Please create a responsive website
+that will have the following features:
+NB: Please make use of bootstrap only
+- Navbar:
+	- Home
+	- About
+	- Contact Form
+- Home page must contain your content not lorem text
+- About: Make use of responsive table to layout your contents
+- Contact form: Make use of formspree to submit contents to your email
+- Make use of a footer: check getbootstrap.com for this feature
+NB: Please push it to git and publish it using netlify then you can
+send me the link
+=====================================================================
+===================Good luck=========================================
